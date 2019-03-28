@@ -18,13 +18,13 @@ By the end, you will be fully equipped with the tools and techniques needed to i
 <LI>Focus on the pros and cons of alternative Reactive frameworks, Reactor, and RxJava </LI></UL></DIV>
 
 ## Instructions and Navigation
-### Assumed Knowledge
+### Assumed Knowledge<br/>
 To fully benefit from the coverage included in this course, you will need:<br/>
 •Prior working knowledge of the Java  Language<br/>
 •Familiarity with Git and GitHub for source control<br/>
 
 ### Technical Requirements
-This course has the following software requirements:<br/>
+
 This course has the following software requirements:<br/>
 	•	IntelliJ IDEA<br/>
 	•	Java JDK 12<br/>
